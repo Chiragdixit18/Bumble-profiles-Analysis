@@ -1,45 +1,46 @@
 💛 Bumble User Analysis
 
-Python Pandas NumPy Matplotlib Seaborn
-
-📖 Project Overview
+📖 Project Overview:
 This project presents an end-to-end exploratory data analysis (EDA) of Bumble user data using Python. The analysis explores demographic characteristics, lifestyle preferences, income distribution, geographic patterns, and user behavior through data cleaning, feature engineering, statistical analysis, and data visualization.
 
-🎯 Business Problem
+🎯 Business Problem:
 Online dating platforms collect large amounts of user information that can be analyzed to understand demographic trends, lifestyle choices, and behavioral patterns. Extracting meaningful insights from this data helps support user segmentation and informed business decisions.
 
-🎯 Project Objectives
-Clean and preprocess raw user data.
-Handle missing values and inconsistent records.
-Perform exploratory data analysis (EDA).
-Analyze demographic and lifestyle trends.
-Explore relationships between income, age, education, and location.
-Generate visual insights for better interpretation.
-📂 Dataset Overview
+🎯 Project Objectives:
+1 Clean and preprocess raw user data.
+2 Handle missing values and inconsistent records.
+3 Perform exploratory data analysis (EDA).
+4 Analyze demographic and lifestyle trends.
+5 Explore relationships between income, age, education, and location.
+6 Generate visual insights for better interpretation.
+
+📂 Dataset Overview:
 The dataset contains information related to:
 
-Age
-Gender
-Height
-Income
-Education
-Occupation
-Location
-Diet
-Drinking Habits
-Smoking Habits
-Pets
-Zodiac Signs
-User Preferences
-🛠️ Tools & Technologies
-Tool	Purpose
-Python	Data Analysis
-Pandas	Data Cleaning & Processing
-NumPy	Numerical Computing
-Matplotlib	Data Visualization
-Seaborn	Statistical Visualization
-Jupyter Notebook	Development Environment
-🧠 Analysis Performed
+1 Age
+2 Gender
+3 Height
+4 Income
+5 Education
+6 Occupation
+7 Location
+8 Diet
+9 Drinking Habits
+10 Smoking Habits
+11 Pets
+12 Zodiac Signs
+13 User Preferences
+
+
+🛠️ Tools & Technologies:
+1 Python	Data Analysis
+2 Pandas	Data Cleaning & Processing
+3 NumPy	Numerical Computing
+4 Matplotlib	Data Visualization
+5 Seaborn	Statistical Visualization
+6 Jupyter Notebook	Development Environment
+
+🧠 Analysis Performed:
 Data Cleaning
 Missing Value Analysis
 Duplicate Value Check
@@ -61,43 +62,27 @@ Count Plots
 Box Plots
 Heatmaps
 Correlation Matrix
-📈 Key Insights
-Explored demographic distribution of Bumble users.
-Identified relationships between age, income, and education.
-Analyzed lifestyle preferences including diet, drinking, and smoking habits.
-Studied geographic distribution of users.
-Visualized behavioral trends using statistical charts.
-📂 Repository Structure
-bumble-user-analysis
-│
-├── dataset
-│   └── Bumble.csv
-│
-├── notebooks
-│   └── Bumble_User_Analysis.ipynb
-│
-├── screenshots
-│
-└── README.md
-📸 Project Screenshots
-Data Cleaning
-image
-Income Group Distribution
-image
-Missing Data Heatmap
-image
-Age Distribution by Gender
-image
-💼 Skills Demonstrated
-Python Programming
-Data Cleaning
-Data Preprocessing
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Statistical Analysis
-Data Visualization
-Analytical Thinking
-👨‍💻 Author
-Ritik Singh
 
-If you found this project useful, consider giving it a Star ⭐.
+
+📈 Key Insights:
+1 Explored demographic distribution of Bumble users.
+2 Identified relationships between age, income, and education.
+3 Analyzed lifestyle preferences including diet, drinking, and smoking habits.
+4 Studied geographic distribution of users.
+5 Visualized behavioral trends using statistical charts.
+
+
+💼 Skills Demonstrated:
+1 Python Programming
+2 Data Cleaning
+3 Data Preprocessing
+4 Exploratory Data Analysis (EDA)
+5 Feature Engineering
+6 Statistical Analysis
+7 Data Visualization
+8 Analytical Thinking
+
+👨‍💻 Author:
+Chirag Dixit
+
+If you found this project useful, do give it a Star ⭐.
